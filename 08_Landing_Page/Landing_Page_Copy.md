@@ -45,9 +45,13 @@ Register → Attend Workshop → Get Roadmap → Explore Program
 
 ## FAQ
 Is the workshop free? Yes.
+
 Who can attend? Students, graduates and professionals exploring Data Analytics.
+
 Do I need technical experience? No advanced experience is required for the introductory workshop.
+
 What will I learn? Skills, tools, portfolio projects and career preparation.
+
 What happens after? You can explore the job-ready program.
 
 ## Final CTA
