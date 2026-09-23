@@ -1,6 +1,6 @@
 # AB Testing Strategy
 
-> Converted from the original Excel planning workbook into GitHub-readable Markdown.
+
 
 ## Tests
 
