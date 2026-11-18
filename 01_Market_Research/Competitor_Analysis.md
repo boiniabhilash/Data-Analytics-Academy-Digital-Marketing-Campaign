@@ -1,16 +1,16 @@
 # Competitor Analysis
 
-> Converted from the original Excel planning workbook into GitHub-readable Markdown.
+> Converted from the original Excel planning workbook into GitHub readable Markdown.
 
 ## Competitors
 
 | Competitor | Category Positioning to Review | Observed Theme | What DAA Can Learn | Ranking? |
 | --- | --- | --- | --- | --- |
-| Great Learning | Online education / career learning | Skills, programs, career-oriented education | Clear program value and learner journey | No |
+| Great Learning | Online education / career learning | Skills, programs, career oriented education | Clear program value and learner journey | No |
 | Simplilearn | Online professional learning | Courses, skills, certificates, career learning | Strong offer clarity and CTA structure | No |
 | upGrad | Online higher/professional education | Career transformation and structured programs | Career narrative and funnel structure | No |
-| Scaler | Technology / career learning | Career-focused learning, free classes/masterclasses | Use a free educational entry point | No |
-| Google Career Certificate | Professional learning ecosystem | Job-related skills and structured learning | Make learning path easy to understand | No |
+| Scaler | Technology / career learning | Career focused learning, free classes/masterclasses | Use a free educational entry point | No |
+| Google Career Certificate | Professional learning ecosystem | Job related skills and structured learning | Make learning path easy to understand | No |
 
 ## Research Notes
 
