@@ -1,6 +1,6 @@
 # Email Nurture Sequence
 
-> Converted from the original Excel planning workbook into GitHub-readable Markdown.
+> Converted from the original Excel planning workbook into GitHub readable Markdown.
 
 ## Sequence
 
