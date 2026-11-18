@@ -12,4 +12,4 @@ The campaign repeatedly connects skills to practice, portfolio evidence and care
 The free Data Analytics Career Workshop is the acquisition entry point because it asks the prospect for a smaller commitment than directly selling a ₹24,999 program from a cold ad.
 
 ## Methodology
-This is portfolio research and strategy development. It is not a claim of exhaustive market sizing or a live competitor-performance benchmark.
+This is portfolio research and strategy development. It is not a claim of exhaustive market sizing or a live competitor performance benchmark.
