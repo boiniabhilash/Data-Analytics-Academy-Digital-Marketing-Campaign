@@ -1,6 +1,6 @@
 # Email Nurture Copy
 
-> Converted from the original Word document into GitHub-readable Markdown.
+> Converted from the original Word document into GitHub readable Markdown.
 
 # Data Analytics Academy — 7-Day Nurture Copy
 
@@ -28,7 +28,7 @@ Learning is only the beginning. A portfolio project can connect a dataset to ana
 
 Subject: Your Data Analytics Workshop Is Coming Up
 
-Your FREE Data Analytics Career Workshop is coming up. We'll cover skills and tools, portfolio projects, a career roadmap, and resume/interview preparation.
+Your FREE Data Analytics Career Workshop is coming up. We'll cover skills and tools, portfolio projects, a career roadmap and resume/interview preparation.
 
 # Day 4 — Consideration
 
@@ -52,7 +52,7 @@ Common questions include where to start as a beginner, which tools to learn, how
 
 Subject: Ready for Your Next Step in Data Analytics?
 
-If you're ready to continue, explore the Data Analytics Academy job-ready program and see whether it fits your learning goals.
+If you're ready to continue, explore the Data Analytics Academy job ready program and see whether it fits your learning goals.
 
 Learn → Practice → Build → Prepare
 
