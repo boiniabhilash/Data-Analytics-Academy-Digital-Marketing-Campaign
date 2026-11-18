@@ -2,9 +2,9 @@
 
 ## Overview
 
-This portfolio project presents an end-to-end digital marketing campaign strategy for **Data Analytics Academy**, a hypothetical online education brand targeting aspiring Data Analytics learners in India.
+This portfolio project presents an end to end digital marketing campaign strategy for **Data Analytics Academy**, a hypothetical online education brand targeting aspiring Data Analytics learners in India.
 
-The campaign is designed to generate prospective-student leads through Meta Ads using a **Free Data Analytics Career Workshop** as the lead-generation offer.
+The campaign is designed to generate prospective student leads through Meta Ads using a **Free Data Analytics Career Workshop** as the lead generation offer.
 
 ### Campaign Journey
 
@@ -14,7 +14,7 @@ The campaign is designed to generate prospective-student leads through Meta Ads 
 
 ## Business Objective
 
-Generate qualified prospective-student leads and create a structured pathway from initial advertising interaction to course consideration.
+Generate qualified prospective student leads and create a structured pathway from initial advertising interaction to course consideration.
 
 ---
 
@@ -45,23 +45,23 @@ The learning framework is:
 
 ## Marketing Strategy
 
-The campaign uses a temperature-based funnel:
+The campaign uses a temperature based funnel:
 
 **Cold Audience**
 
-Students, recent graduates and career switchers are introduced to Data Analytics through educational and career-focused content.
+Students, recent graduates and career switchers are introduced to Data Analytics through educational and career focused content.
 
 ↓
 
 **Warm Audience**
 
-Video viewers, social engagers and website visitors receive consideration-focused messaging.
+Video viewers, social engagers and website visitors receive consideration focused messaging.
 
 ↓
 
 **Retargeting**
 
-High-intent visitors and form openers receive workshop-focused follow-up messaging.
+High intent visitors and form openers receive workshop focused follow up messaging.
 
 ↓
 
@@ -73,7 +73,7 @@ Workshop leads receive a structured 7-day nurture sequence.
 
 **Course Consideration**
 
-Engaged and high-intent leads are introduced to the job-ready program.
+Engaged and high intent leads are introduced to the job ready program.
 
 ---
 
@@ -95,11 +95,11 @@ Engaged and high-intent leads are introduced to the job-ready program.
 
 * Landing Page Visitors
 * Form Openers
-* High-Intent Visitors
+* High Intent Visitors
 
 ### Campaign 4 — Course Conversion
 
-* Qualified / High-Intent Leads
+* Qualified / High Intent Leads
 
 ---
 
@@ -122,7 +122,7 @@ Six core creatives were developed:
 
 ### Free Data Analytics Career Workshop
 
-The workshop is designed as a lower-friction entry point for prospective learners.
+The workshop is designed as a lower friction entry point for prospective learners.
 
 The offer focuses on:
 
