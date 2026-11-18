@@ -1,6 +1,6 @@
 # Registration Form
 
-> Converted from the original Excel planning workbook into GitHub-readable Markdown.
+> Converted from the original Excel planning workbook into GitHub readable Markdown.
 
 ## Form
 
@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Full Name | Text | Yes | Identification |
 | Email Address | Email | Yes | Workshop confirmation/nurture |
-| Phone Number | Phone | Yes | Follow-up |
+| Phone Number | Phone | Yes | Follow up |
 | Current Status | Dropdown | Yes | Segmentation |
 | Career Goal | Dropdown | Yes | Intent/context |
 
