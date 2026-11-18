@@ -1,6 +1,6 @@
 # Retargeting Strategy
 
-> Converted from the original Excel planning workbook into GitHub-readable Markdown.
+> Converted from the original Excel planning workbook into GitHub readable Markdown.
 
 ## Audiences
 
