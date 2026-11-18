@@ -52,7 +52,7 @@ Do I need technical experience? No advanced experience is required for the intro
 
 What will I learn? Skills, tools, portfolio projects and career preparation.
 
-What happens after? You can explore the job-ready program.
+What happens after? You can explore the job ready program.
 
 ## Final CTA
 ### Ready to Start Your Data Analytics Journey?
