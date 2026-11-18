@@ -1,6 +1,6 @@
 # KPI Framework
 
-> Converted from the original Excel planning workbook into GitHub-readable Markdown.
+> Converted from the original Excel planning workbook into GitHub readable Markdown.
 
 ## KPIs
 
@@ -12,7 +12,7 @@
 | Landing Page | LP Conversion Rate | Leads / LP visitors | Offer/page/form |
 | Lead | CPL | Spend / leads | Acquisition efficiency |
 | Quality | Qualified Lead Rate | Qualified leads / total leads | Targeting/message |
-| Quality | CPQL | Spend / qualified leads | Quality-adjusted acquisition |
+| Quality | CPQL | Spend / qualified leads | Quality adjusted acquisition |
 | Conversion | CAC | Spend / new customers | Overall economics |
 | Revenue | ROAS | Revenue / ad spend | Revenue efficiency |
 
