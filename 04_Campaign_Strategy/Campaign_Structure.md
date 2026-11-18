@@ -1,6 +1,6 @@
 # Campaign Structure
 
-> Converted from the original Excel planning workbook into GitHub-readable Markdown.
+> Converted from the original Excel planning workbook into GitHub readable Markdown.
 
 ## Campaigns
 
@@ -11,7 +11,7 @@
 | DAA \| Lead Generation \| Cold \| Workshop | Career Switchers | 25–35, India, career/technology interests | C03 Career Switcher Reel | Workshop leads | Existing leads/registrants/enrolled |
 | DAA \| Lead Generation \| Warm \| Workshop | Warm Engagers | Video viewers, social engagers, website visitors | C04 Warm Carousel; C05 Workshop Ad | Workshop leads | Workshop registrants |
 | DAA \| Retargeting \| Workshop | High Intent | LP visitors, form openers | C06 Retargeting | Workshop leads | Workshop registrants |
-| DAA \| Course Conversion \| Warm Leads | Qualified Leads | High-intent workshop leads | Program/value creatives | Course consideration | Enrolled |
+| DAA \| Course Conversion \| Warm Leads | Qualified Leads | High intent workshop leads | Program/value creatives | Course consideration | Enrolled |
 
 ## Naming
 
