@@ -1,6 +1,6 @@
 # Media Plan
 
-> Converted from the original Excel planning workbook into GitHub-readable Markdown.
+> Converted from the original Excel planning workbook into GitHub readable Markdown.
 
 ## Budget
 
@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Cold Lead Generation | 30000 | 0.6 | Acquire new prospects |
 | Warm | 10000 | 0.2 | Convert engaged audiences to workshop leads |
-| Retargeting | 7500 | 0.15 | Recover high-intent users |
+| Retargeting | 7500 | 0.15 | Recover high intent users |
 | Testing Reserve | 2500 | 0.05 | Creative/audience/hook/LP/CTA testing |
 | Total | 50000 | 1 | Hypothetical test budget |
 
